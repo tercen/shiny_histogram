@@ -46,3 +46,21 @@ getValues = function(session){
 }
 
 ```
+
+# Deployment
+## shinyapps.io
+
+Visit https://www.shinyapps.io/
+
+## Tercen
+
+Next to come ...
+
+## How to link a shiny app into a Tercen workflow ?
+
+An External View step can be used.
+
+
+
+
+
