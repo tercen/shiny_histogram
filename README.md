@@ -52,9 +52,9 @@ getValues = function(session){
 
 Visit https://www.shinyapps.io/
 
-## Tercen
+## tercen.com
 
-Next to come ...
+[Next to come](https://tercen.com) ...
 
 ## How to link a shiny app into a Tercen workflow ?
 
