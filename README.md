@@ -2,7 +2,7 @@
 
 A simple histrogram using rtercen client.
 
-```
+```R
 library(shiny)
 library(rtercen)
  
@@ -45,4 +45,4 @@ getValues = function(session){
   return(x)
 }
 
-``` 
+```
